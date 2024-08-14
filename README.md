@@ -27,7 +27,11 @@ To run this project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/email-spam-classification.git
    ```
-2. Install the necessary dependencies:
+2. Install Jupyter Notebook:
    ```bash
-   pip install pandas sklearn
+   pip install jupyter
+   ```
+3. Install the necessary dependencies:
+   ```bash
+   pip install pandas scikit-learn
    ```
