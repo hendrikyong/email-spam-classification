@@ -22,16 +22,35 @@ The model developed in this project achieves an average accuracy of 98%. This hi
 ## Usage
 
 To run this project, follow these steps:
+To set up your environment and run this project, follow these steps:
 
-1. Clone the repository:
+1. **Install Python:**
+
+   - **Download Python:**
+
+     - Visit the [official Python website](https://www.python.org/downloads/).
+     - Download the installer for your operating system (Windows, macOS, or Linux).
+
+   - **Run the Installer:**
+     - Execute the downloaded installer and follow the instructions.
+     - On Windows, make sure to check the box that says "Add Python to PATH" during the installation process.
+
+2. **Clone the repository:**
+
    ```bash
    git clone https://github.com/yourusername/email-spam-classification.git
+
    ```
-2. Install Jupyter Notebook:
+
+3. Install Jupyter Notebook:
    ```bash
    pip install jupyter
    ```
-3. Install the necessary dependencies:
+4. Install the necessary dependencies:
    ```bash
    pip install pandas scikit-learn
+   ```
+5. Run notebook:
+   ```
+   jupyter notebook
    ```
