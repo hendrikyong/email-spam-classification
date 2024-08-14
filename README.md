@@ -51,7 +51,3 @@ To set up your environment and run this project, follow these steps:
    ```
    pip install pandas scikit-learn
    ```
-6. Run notebook:
-   ```
-   jupyter notebook
-   ```
