@@ -37,7 +37,7 @@ To set up your environment and run this project, follow these steps:
 
 2. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/email-spam-classification.git
+   git clone https://github.com/hendrikyong/email-spam-classification.git
    ```
 3. **Navigate to project directory**
    ```
