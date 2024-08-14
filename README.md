@@ -36,21 +36,22 @@ To set up your environment and run this project, follow these steps:
      - On Windows, make sure to check the box that says "Add Python to PATH" during the installation process.
 
 2. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/yourusername/email-spam-classification.git
-
    ```
-
-3. Install Jupyter Notebook:
-   ```bash
+   git clone https://github.com/yourusername/email-spam-classification.git
+   ```
+3. **Navigate to project directory**
+   ```
+   cd email-spam-classification
+   ```
+4. Install Jupyter Notebook:
+   ```
    pip install jupyter
    ```
-4. Install the necessary dependencies:
-   ```bash
+5. Install the necessary dependencies:
+   ```
    pip install pandas scikit-learn
    ```
-5. Run notebook:
+6. Run notebook:
    ```
    jupyter notebook
    ```
