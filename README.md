@@ -10,7 +10,14 @@ The dataset for this project is available at [Kaggle - Spam Email Classification
 
 ## Model Performance
 
-The model developed in this project achieves an average accuracy of 98%. This high level of accuracy indicates strong performance in distinguishing between spam and non-spam emails. 
+The model developed in this project achieves an average accuracy of 98%. This high level of accuracy indicates strong performance in distinguishing between spam and non-spam emails.
+
+## Requirements
+
+- Jupyter Notebook
+- Python 3.x
+- pandas
+- scikit-learn
 
 ## Usage
 
